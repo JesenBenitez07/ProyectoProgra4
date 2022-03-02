@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "titulo": "Super Taco",
+      "categoria": "Combos Personales",
+      "precio": 118.00,
+      "img": "./imagenes/Supertaco.jpeg",
+      "desc": "10 pulgadas rellenas de pollo, papas fritas, cebolla, jamon, queso craft, salsas y aderezo."
+    },
+    {
+    "id": 2,
+    "titulo": "Hamburguesa",
+    "categoria": "Combos Personales",
+    "precio": 118.00,
+    "img": "./imagenes/Hamburguesa.jpeg",
+    "desc": "Hamburguesa de pollo o res, con papas fritas."
+    },
+    {
+    "id": 3,
+    "titulo": "Nachos",
+    "categoria": "Combos Personales",
+    "precio": 85.00,
+    "img": "./imagenes/Nachos.jpeg",
+    "desc": "Delicioso nachos de pollo, con queso rayado y escabeche."
+    }
+    
+  ]
